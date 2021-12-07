@@ -1,10 +1,10 @@
-#I am...A Project in Becoming
+# I am...A Project in Becoming
 
 This multimodal coding tool is a great way to break the ice at begining of your school year. Why not use code to help your students introduce themselves and to process where they are on their journey through life? It's also an easy way for you to promote coding literacy, computational thinking, and computer science knowledge in your classroom.
 
-Students work through the prompts in the index.html code to construct their own web page that exlpains who they are and where they are going. I ask that my students actually present their page to the rest of the class. But before we do so...and even while the presentations are going on...I give students time to work together to debug their projects.  
+By working through the prompts in the index.html file, students will construct their own web page exlpaining who they are, what they are doing, and where they are going. Before, I ask students to present their page to the rest of the class, I give them 15 minutes to work together to debug their projects.  
 
-This template also allows the user to mix and match div. blocks should students wish to further customize their work. It's a great introduction to coding that will prepare them to use our other [Pitt Fuego Coding Tools](https://github.com/pitt-fuego)
+This template also allows the user to mix and match div. blocks should students wish to further customize their work. It's a great introduction to code that will prepare students to use our other [Pitt Fuego Coding Tools](https://github.com/pitt-fuego)
 
     
 ## Get started! 
