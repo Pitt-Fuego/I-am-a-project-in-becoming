@@ -4,12 +4,12 @@ This multimodal coding tool is a great way to break the ice at begining of your 
 
 By working through the prompts in the index.html file, students will construct their own webtext exlpaining who they are, what they are doing, and where they are going. Before, I ask students to present their page to the rest of the class, I divide them into groups giving them 15 minutes to work together to debug their projects.  
 
-This template also allows the user to mix and match div. blocks should students wish to further customize their work. It's a great introduction to code that will prepare students to use our other [Open Fuego Coding Tools](https://github.com/open-fuego)
+This template also allows the user to mix and match div. blocks should students wish to further customize their work. It's a great introduction to code that will prepare students to use our other [Pitt Fuego Coding Tools](https://github.com/pitt-fuego)
 
     
 ## Get started! 
 
-1. Go to the [I-am-a-project-in-becoming repository](https://github.com/open-fuego/I-am-a-project-in-becoming) 
+1. Go to the [I-am-a-project-in-becoming repository](https://github.com/pitt-fuego/I-am-a-project-in-becoming) 
 
 2. Click the green "Code" button, and then click "Download ZIP" to your local computer. 
 
@@ -31,7 +31,7 @@ This template also allows the user to mix and match div. blocks should students 
  
 
 
-Check out our other cool [Open Fuego Coding Tools](https://open-fuego.github.io/Open-Fuego-Coding-Tools/)
+Check out our other cool [Pitt Fuego Coding Tools](https://pitt-fuego.github.io/Pitt-Fuego-Coding-Tools/)
 
 
 
