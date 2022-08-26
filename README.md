@@ -6,6 +6,7 @@ By working through the prompts in the index.html file, students will construct t
 
 This template also allows the user to mix and match div. blocks should students wish to further customize their work. It's a great introduction to code that will prepare students to use our other [Pitt Fuego Coding Tools](https://github.com/pitt-fuego)
 
+
     
 ## Get started! 
 
@@ -29,6 +30,7 @@ This template also allows the user to mix and match div. blocks should students 
 
 10. Test the URL in a browser. Magic, no? Actually, it's computer science.  
  
+Watch our [instructional video](https://youtu.be/cJiYas7B9Us)
 
 
 Check out our other cool [Pitt Fuego Coding Tools](https://pitt-fuego.github.io/Pitt-Fuego-Coding-Tools/)
