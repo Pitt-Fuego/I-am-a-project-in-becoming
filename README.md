@@ -16,7 +16,7 @@ This template also allows the user to mix and match div. blocks should students 
 
 3. Find this folder in your downloads. Move this folder to a secure place. You will return to this folder to manage your scripts and other assets like images, pdfs, etcetera. 
 
-4. For Mac, Windows, and Linux, download and/or open a code editor like [Visual Studio Code](https://code.visualstudio.com/download) or any code editor of your choice. If you use a Chromebook O.S., we recommend Code Pad or Caret. You will find additional information below about optimizing your code editor to work with HTML and CSS.  
+4. Download and/or open a code editor. We recommend [Visual Studio Code](https://code.visualstudio.com/Download). 
 
 5. Use the code editor to open the index.html and style.css files from your project folder.
 
@@ -44,7 +44,7 @@ Check out our other cool [Pitt Fuego Coding Tools](https://pitt-fuego.github.io/
 
 Setting up Visual Studio Code for Windows and CodePad for Chromebooks (Our recommended code editors)
 
-### Visual Studio Code (Mac)
+### Visual Studio Code (Mac or Windows)
 
 1. Download "**[Visual Studio Code](https://code.visualstudio.com/download)**"
 1. Add HTML Preview - from the dropdown menu, select **View>Extension.**
@@ -52,16 +52,10 @@ Setting up Visual Studio Code for Windows and CodePad for Chromebooks (Our recom
 1. In the right-had corner, select the "**show preview**" button to see a live version of your code.
 1. Adjust text wrapping - from the dropdown menu, select **View>Word Wrap** (this will force lines of code to conform to your viewer tab.)
 
-### Visual Studio Code (Windows)
 
-1. Download "**[Visual Studio Code](https://code.visualstudio.com/download)**"
-1. Add HTML Preview - from the dropdown menu, select **View>Extension.**
-1. In the search bar type "**Live Preview**."
-1. In the right-had corner, select the "**show preview**" button to see a live version of your code.
-1. Adjust text wrapping - from the dropdown menu, select **View>Word Wrap** (this will force lines of code to conform to your viewer tab.)
+### Phoenix Code (Online or Download -- Great for Chromebooks and iPads)
 
-### Code Pad (Chromebook)
-
-1. Download "**[Code Pad Text Editor](https://chrome.google.com/webstore/detail/code-pad-text-editor/adaepfiocmagdimjecpifghcgfjlfmkh?hl=en-GB)**" from Chrome Web Store.
-1. From the dropdown menu, select **Editor>IDE Preferences**
-1. Toggle "**Word wrap limit**" to the middle value (this will force lines of code to conform to your viewer tab.)<p>&nbsp;</p>
+1. Go to [Phoenix Code](https://phcode.dev). 
+1. Use the online version or [download](https://phcode.io/#/home) a desktop app for Mac, Windows, Linux. 
+1. Adjust text wrapping, select **View>Word Wrap**
+1. Enjoy the live preview. <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
