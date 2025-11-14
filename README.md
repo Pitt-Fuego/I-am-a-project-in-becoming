@@ -26,7 +26,8 @@ This template also allows the user to mix and match div. blocks should students 
 
 9. Test the URL in a browser. Magic, no? Actually, it's computer science.  
  
-Watch our [instructional video](https://youtu.be/jL5VPKTVSBs?si=lD7FSJGdYtAeyGne)
+[Watch our video tutorial. 
+](https://youtu.be/cmocHqJ2UvI?si=tp7spnBD6CULp_gq)
 
 
 Check out our other cool [Pitt Fuego Coding Tools](https://pitt-fuego.github.io/Pitt-Fuego-Coding-Tools/)
