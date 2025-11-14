@@ -133,7 +133,7 @@ Button-box class selector uses Flex Box Design (flex display) to scale the eleme
     display: inline-block;
     background-color: #2A5DB0;
     padding: 15px 32px;
-    border: none;
+    border: 0px solid white;
     cursor: pointer;
     font: inherit;
     font-size: 16px;
@@ -189,9 +189,9 @@ CSS Flexbox creates responsive layouts for images, text, and other content. Reus
 Use CSS box model to style image content. Adjust frame/filter class selector properties to customize. Copy, paste, rename class selector to quickly create alternative image stylings. */
 .frame {
     display: block;
-    background: black;
+    background: blue;
     padding: 5px;
-    border: 5px solid black;
+    border: 5px solid gold;
     border-radius: 3%;
     margin-top: 0px;
     margin-bottom: 0px;
