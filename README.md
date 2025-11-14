@@ -1,14 +1,13 @@
-# Pitt Fuego Webtext Generator
+# I am...A Project in Becoming
 
-Welcome to Pitt Fuego Webtext Generator! This tool allows the user to mix and match div. blocks to build a quick website similar to an Adobe Spark. All of the design elements you need to make a great webtext or presentation are embedded in the document. We've also provided hidden comments to help guide you through the process. See [Video](https://youtu.be/KVUBbM7pIYw?si=S02HKRwmh-psrWHJ)
+This multimodal coding tool is a great way to break the ice at beginning of your school year. Why not use code to help your students introduce themselves and to process where they are on their journey through life? It's also an easy way for you to promote coding literacy, computational thinking, and computer science knowledge in your classroom.
 
-We recommend you begin with one of our starter programs before using this one. 
-   
+By working through the prompts in the index.html file, students will construct their own webtext explaining who they are, what they are doing, and where they are going. Before, I ask students to present their page to the rest of the class, I divide them into groups giving them 15 minutes to work together to debug their projects.  
 
-
-## Get started!
+This template also allows the user to mix and match div. blocks should students wish to further customize their work. It's a great introduction to code that will prepare students to use our other [Pitt Fuego Coding Tools](https://github.com/pitt-fuego)
 
 
+    
 1. Scroll to the top of this repository and click the green "**Code**" button. Select "**Download ZIP**" to download project files to your local computer. These are all the project files you'll need to get started working with code.
 
 2. Find this project folder in your downloads and move it to a secure place. You will return to this folder to manage your files and other assets like images, pdfs, etcetera. 
@@ -26,38 +25,33 @@ We recommend you begin with one of our starter programs before using this one.
 8. GitHub will now provide you with a published URL. (This process may take several minutes.)
 
 9. Test the URL in a browser. Magic, no? Actually, it's computer science.  
+ 
+Watch our [instructional video](https://youtu.be/jL5VPKTVSBs?si=lD7FSJGdYtAeyGne)
 
 
-Check out our other cool coding tools at [Open Fuego](https://open-fuego.github.io/Open-Fuego-Coding-Tools/).<p>&nbsp;</p><p>&nbsp;</p>
+Check out our other cool [Pitt Fuego Coding Tools](https://pitt-fuego.github.io/Pitt-Fuego-Coding-Tools/)
 
 
 
 
-## Code editors 
-
-You have a range of code editor options depending on your operating system, but we recommend Visual Studio Code as it is commonly used here at Pitt. 
 
 
-### Visual Studio Code (Mac / Windows /Linux)
-[See Video Tutorial](https://youtu.be/1onqFbSgeQo)
+## Suggested Text Editors 
+
+Setting up Visual Studio Code for Windows and CodePad for Chromebooks (Our recommended code editors)
+
+### Visual Studio Code (Mac or Windows)
 
 1. Download "**[Visual Studio Code](https://code.visualstudio.com/download)**"
-1. Add HTML Preview 
-	* from the dropdown menu, select **View>Extension.**
-	* In the search bar type "**Live Preview**." Install.
-	* Right click on the index.html tab and select "**show preview**." You should see a live version of your work.
-1. Install Spell Check 
-	* from the dropdown menu, select **View>Extension.** 
-	* In the search bar type "**Code Spell Check**." Install.
-1. Adjust text wrapping on index.html 
-	* from the dropdown menu, select **View>Word Wrap** (this will force lines of code to conform to your viewer tab.)
+1. Add HTML Preview - from the dropdown menu, select **View>Extension.**
+1. In the search bar type "**Live Preview**."
+1. In the right-had corner, select the "**show preview**" button to see a live version of your code.
+1. Adjust text wrapping - from the dropdown menu, select **View>Word Wrap** (this will force lines of code to conform to your viewer tab.)
 
 
-
-### Phoenix Code (Free and Open-Source for Mac / Windows / Linux / Chromebook. Download or use Online / Works with iPads and iPhones also!)
+### Phoenix Code (Online or Download -- Great for Chromebooks and iPads)
 
 1. Go to [Phoenix Code](https://phcode.dev). 
 1. Use the online version or [download](https://phcode.io/#/home) a desktop app for Mac, Windows, Linux. 
 1. Adjust text wrapping, select **View>Word Wrap**
-1. Enjoy the live preview.<p>&nbsp;</p><p>&nbsp;</p>
-
+1. Enjoy the live preview. <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
